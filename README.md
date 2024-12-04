@@ -24,3 +24,11 @@ https://www.spiced-academy.com/en
 
 ## image
 https://imageupscaler.com/wp-content/uploads/2024/07/deblured-cutty-fox.jpg
+
+## code
+
+### code line
+we add a line of code
+
+### code block
+```js

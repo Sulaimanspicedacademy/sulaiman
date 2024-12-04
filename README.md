@@ -17,3 +17,10 @@ start
 - item two
 - item three
 - item five
+
+## link a page 
+
+https://www.spiced-academy.com/en
+
+## image
+https://imageupscaler.com/wp-content/uploads/2024/07/deblured-cutty-fox.jpg

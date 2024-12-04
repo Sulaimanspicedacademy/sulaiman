@@ -1,34 +1,19 @@
-#enter to github
-learning Github and markdown
-start
+#  The First practice of Coding
+## In Spiced Academy
 
-## list in MD.
 
-### order list.
+**The Bold Text Example**
 
-1. Frist item
-2. Second item
-3. third item
-4. forth item
+> what is this?
 
-### unoder list.
+1.Number one
+2.Number two
+3.Number three
+4.Number Four
 
-- item one
-- item two
-- item three
-- item five
 
-## link a page 
+1. Item one
+2. Item two
+3. Item three
+4. Item Four
 
-https://www.spiced-academy.com/en
-
-## image
-https://imageupscaler.com/wp-content/uploads/2024/07/deblured-cutty-fox.jpg
-
-## code
-
-### code line
-we add a line of code
-
-### code block
-```js
